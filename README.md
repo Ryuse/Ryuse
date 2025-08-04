@@ -21,11 +21,11 @@ I'm the indie dev behind **Idle Reincarnator**, a fantasy incremental RPG with c
 
 ### 🧙 Idle Reincarnator  
 A deep incremental RPG where rebirth unlocks new strategies and deeper progression.  
-- **Released June 18 2025** on Steam under **RyuseGames** :contentReference[oaicite:1]{index=1}  
-- Recent Steam reviews: **Very Positive (~83 %)**; All-time: **Mixed (~69 %)** :contentReference[oaicite:2]{index=2}  
+- **Released June 18 2025** on Steam under **RyuseGames**
+- Recent Steam reviews: **Very Positive (~83 %)**; All-time: **Mixed (~69 %)**
 - Features:
-  - 47 unique jobs, 17 training types, 12 exploration zones, 80 tech unlocks, 30 temporal skills, 20 spells, 46 lifestyles—playtime: 30–40+ hours :contentReference[oaicite:3]{index=3}  
-  - PC version adds automation and quality-of-life improvements based on feedback :contentReference[oaicite:4]{index=4}  
+  - 48 unique jobs, 17 training types, 12 exploration zones, 80 tech unlocks, 30 temporal skills, 20 spells, 46 lifestyles—playtime: 30–40+ hours 
+  - PC version adds automation and quality-of-life improvements based on feedback
   - Modding support rollout: players are now creating custom content & tools (check the `idle-reincarnator-modding` repo)
 
 ### 🔧 idle-reincarnator-modding  
@@ -34,11 +34,11 @@ A documented, in-browser toolkit for creating and importing mods into *Idle Rein
 ### 🏠 CS Coursework & Tools
 
 - **MatchEstate** *(from `tp` repo)*  
-  A desktop app to manage property listings and agent workflows, created for CS2103. Includes fast keyboard-driven input and a GUI layer. :contentReference[oaicite:5]{index=5}
+  A desktop app to manage property listings and agent workflows, created for CS2103. Includes fast keyboard-driven input and a GUI layer.
 
 - **WISLY** (*`WISLY` repo*)  
-  A JavaScript team effort from NYP to improve learning experiences—it showcases your early front-end enthusiasm. :contentReference[oaicite:6]{index=6}
-
+  A team effort from NYP to improve learning experiences. Uses ASP.net.
+  
 - **MedFriend**, **VanitiesOfRyuse**, **My-Pixel-Dungeon**, and other forks/projects  
   - *MedFriend*: lightweight web project using HTML/CSS to prototype UI/UX  
   - *VanitiesOfRyuse*: a quirky mod for Terraria with custom vanity items (C#)  
