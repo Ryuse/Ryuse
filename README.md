@@ -1,4 +1,4 @@
-# 👋 Hi, I'm **Ryuse**  
+# 👋 Hi, I'm **Ryuse** (or Lemuel)
 *Computer Science @ NUS · 🇸🇬 Based in Singapore*
 
 I'm the indie dev behind **Idle Reincarnator**, a fantasy incremental RPG with cross-platform releases and early modding support. I’m also growing my full-stack skills through hands-on startup-style tools, CS projects, and web demos.
