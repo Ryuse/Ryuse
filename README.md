@@ -10,16 +10,24 @@ I'm currently a penultimate student studying Computer Science @ NUS.
 ## 🚀 Highlighted Projects
 
 ### 🧙 Idle Reincarnator  
-[![Idle Reincarnator](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3779340/09b706cb6c9ce2847a11872337067b1f4c238b6e/header.jpg)](https://store.steampowered.com/app/3779340/Idle_Reincarnator/)
+https://github.com/user-attachments/assets/6115e16f-2d67-46aa-b71b-f7d1b1f77521
+
 
 An incremental RPG where rebirth unlocks new strategies and deeper progression.  
 
-Released on [Steam](https://store.steampowered.com/app/3779340/Idle_Reincarnator/) for PC and [Google Playstore](https://play.google.com/store/apps/details?id=com.ryusegames.idle_reincarnator) for mobile under **RyuseGames**.
+Released on [Steam](https://store.steampowered.com/app/3779340/Idle_Reincarnator/) for PC and [Google Playstore](https://play.google.com/store/apps/details?id=com.ryusegames.idle_reincarnator) for mobile under **RyuseGames**. Has over 5,000+ units sold.
 
 Features:
-  - 48 unique jobs, 17 training types, 12 exploration zones, 80 tech unlocks, 30 temporal skills, 20 spells, 46 lifestyles—playtime: 30–40+ hours of playtime (Though some spend 200+ hours)
-  - PC version adds automation and quality-of-life improvements based on feedback
+  - 48 unique jobs, 17 training types, 12 exploration zones, and much more!
+  - 30–40+ hours of playtime (Though some spend 200+ hours)
   - Modding support rollout: players are now creating custom content & tools (check the `idle-reincarnator-modding` repo)
+### 🏠 Hokmah Ahronah
+An AI VTuber that can assist with streaming on Twitch. Has can respond to Twitch chat and has voice and subtitles.
+
+
+
+https://github.com/user-attachments/assets/dd50cc96-b4d7-4016-8304-b1ba9124414b
+
 
 ### 🏠 CS Coursework & Tools
 
