@@ -48,6 +48,7 @@ https://github.com/user-attachments/assets/dd50cc96-b4d7-4016-8304-b1ba9124414b
 | Name | What It Is | ✅ Live Demo | Tech Stack |
 |------|-------------|-------------|------------|
 | **Idle Reincarnator Modding Guide** | Interactive guide to build mods for Idle Reincarnator | 🌐 https://ryuse.github.io/idle-reincarnator-modding/ | HTML · JS · CSS |
+| **[PeerPrep](https://github.com/Ryuse/PeerPrep)** | Real-time coding question collaboration | | React · Microservices |
 | **[WISLEY](https://github.com/Ryuse/WISLY)** | School Project Website to improve learning system in through the a fun and minimalistic approach.  | | ASP.NET |
 | **[OutSource](https://github.com/JDesignEra/outsource)** | School Project Website for clients and freelancers to connect together | | Node.js · Bootstrap · jQuery · Popper.js|
 | **[MedFriend](https://github.com/Ryuse/MedFriend)** | School Project Website for a healthcare tracking | | Flask |
