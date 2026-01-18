@@ -3,7 +3,7 @@
 
 I'm the indie dev behind **Idle Reincarnator**, a fantasy incremental RPG with cross-platform releases and modding support for the community. 
 
-I'm currently a penultimate student studying Computer Science @ NUS.
+I'm currently a final year student studying Computer Science @ NUS.
 
 ---
 
