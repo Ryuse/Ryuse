@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm <b>Ryuse</b> (Lemuel)</h1>
+<h1 align="center">Hi, I'm <b>Ryuse</b> (or Lemuel if you prefer)</h1>
 <p align="center">
   <sub>Computer Science @ NUS · 🇸🇬 Singapore · Indie dev (RyuseGames)</sub>
 </p>
