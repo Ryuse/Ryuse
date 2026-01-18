@@ -15,7 +15,7 @@ https://github.com/user-attachments/assets/6115e16f-2d67-46aa-b71b-f7d1b1f77521
 
 An incremental RPG where rebirth unlocks new strategies and deeper progression.  
 
-Released on [Steam](https://store.steampowered.com/app/3779340/Idle_Reincarnator/) for PC and [Google Playstore](https://play.google.com/store/apps/details?id=com.ryusegames.idle_reincarnator) for mobile under **RyuseGames**. Has over 5,000+ units sold.
+Released on [Steam](https://store.steampowered.com/app/3779340/Idle_Reincarnator/) for PC and [Google Playstore](https://play.google.com/store/apps/details?id=com.ryusegames.idle_reincarnator) for mobile under **RyuseGames**. Has over 9,000+ units sold.
 
 Features:
   - 48 unique jobs, 17 training types, 12 exploration zones, and much more!
