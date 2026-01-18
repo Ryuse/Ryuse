@@ -7,63 +7,65 @@ I'm currently a final year student studying Computer Science @ NUS.
 
 ---
 
-## 🚀 Highlighted Projects
+## Highlighted Projects
 
-### 🧙 Idle Reincarnator  
+<table>
+  <tr>
+    <td width="50%" valign="top">
+
+### Idle Reincarnator  
 https://github.com/user-attachments/assets/6115e16f-2d67-46aa-b71b-f7d1b1f77521
 
-
-An incremental RPG where rebirth unlocks new strategies and deeper progression.  
-
-Released on [Steam](https://store.steampowered.com/app/3779340/Idle_Reincarnator/) for PC and [Google Playstore](https://play.google.com/store/apps/details?id=com.ryusegames.idle_reincarnator) for mobile under **RyuseGames**. Has over 9,000+ units sold.
+An incremental game on [Steam](https://store.steampowered.com/app/3779340/Idle_Reincarnator/) for PC and [Google Playstore](https://play.google.com/store/apps/details?id=com.ryusegames.idle_reincarnator) for mobile under **RyuseGames**. Has over 9,000+ units sold.
 
 Features:
-  - 48 unique jobs, 17 training types, 12 exploration zones, and much more!
-  - 30–40+ hours of playtime (Though some spend 200+ hours)
-  - Modding support rollout: players are now creating custom content & tools (check the `idle-reincarnator-modding` repo)
-### 🏠 Hokmah Ahronah
-An AI VTuber that can assist with streaming on Twitch. Has can respond to Twitch chat and has voice and subtitles.
+- 48 unique jobs, 17 training types, 12 exploration zones, and much more
+- 30–40+ hours of playtime (some spend 200+ hours)
+- Modding support rollout: players are now creating custom content and tools (Docs are [here](https://github.com/Ryuse/idle-reincarnator-modding))
 
+    </td>
+    <td width="50%" valign="top">
 
-
+### Hokmah Ahronah
 https://github.com/user-attachments/assets/dd50cc96-b4d7-4016-8304-b1ba9124414b
 
+An AI VTuber that assists with streaming on Twitch. Responds to Twitch chat and supports voice and subtitles.
 
-### 🏠 CS Coursework & Tools
+Features:
+- LLM-driven dialogue
+- Real-time speech and subtitles synthesis
+- PPO reinforcement learning to play games and improve over time
 
-- **MatchEstate** *(from `tp` repo)*  
-  A desktop app to manage property listings and agent workflows, created for CS2103. Includes fast keyboard-driven input and a GUI layer.
+    </td>
 
-- **WISLY** (*`WISLY` repo*)  
-  A team effort from NYP to improve learning experiences. Uses ASP.net.
-  
-- **MedFriend**, **VanitiesOfRyuse**, **My-Pixel-Dungeon**, and other forks/projects  
-  - *MedFriend*: lightweight web project using HTML/CSS to prototype UI/UX  
-  - *VanitiesOfRyuse*: a quirky mod for Terraria with custom vanity items (C#)  
-  - *My-Pixel-Dungeon*: my sandbox mod to experiment with Java-based roguelike systems
----
+  </tr>
+  <tr>
+        <td width="50%" valign="top">
 
-## 🌐 Websites/Web Apps
+### [PeerPrep](https://github.com/Ryuse/PeerPrep)
+<img src="https://github.com/user-attachments/assets/747530b3-aac3-458b-ad65-ab3451bdcbe1" width="100%" />
 
-| Name | What It Is | ✅ Live Demo | Tech Stack |
-|------|-------------|-------------|------------|
-| **Idle Reincarnator Modding Guide** | Interactive guide to build mods for Idle Reincarnator | 🌐 https://ryuse.github.io/idle-reincarnator-modding/ | HTML · JS · CSS |
-| **[PeerPrep](https://github.com/Ryuse/PeerPrep)** | Real-time coding question collaboration | | React · Microservices |
-| **[WISLEY](https://github.com/Ryuse/WISLY)** | School Project Website to improve learning system in through the a fun and minimalistic approach.  | | ASP.NET |
-| **[OutSource](https://github.com/JDesignEra/outsource)** | School Project Website for clients and freelancers to connect together | | Node.js · Bootstrap · jQuery · Popper.js|
-| **[MedFriend](https://github.com/Ryuse/MedFriend)** | School Project Website for a healthcare tracking | | Flask |
+A peer-to-peer coding interview practice platform with real-time collaboration. Uses Microservices architecture for backend and Micro-frontend for frontend.
 
----
+Features:
+- Real-time user matching
+- Real-time coding collaboration
+- 1,000+ questions to practice from
 
-## 🛠 Tech Stack & Developer Skills
+    </td>
+  </tr>
+</table>
 
-- **Languages**: GDScript, Java, JavaScript (vanilla/Node), HTML/CSS  
-- **Tools**: GitHub Pages, GitHub Actions (for actions-streaks or dynamic mod stats), Git, Godot, SE‑EDU Java templates  
-- **Developer Approach**:
-  1. Build playable systems early  
-  2. Collect feedback (e.g. from early players or dev communities)  
-  3. Iterate based on real usage  
-  4. Open the tooling/data—so others can build on it too  
+
+## Other Projects
+
+| Project | Description | Repo | Tech stack |
+|---|---|---|---|
+| [Idle Reincarnator Modding Guide](https://ryuse.github.io/idle-reincarnator-modding/) | Interactive guide to build mods for Idle Reincarnarnator | https://github.com/Ryuse/idle-reincarnator-modding | HTML, JS, CSS, GitHub Pages |
+| [MatchEstate](https://github.com/Ryuse/MatchEstate) | Desktop app for property listings and agent workflows; fast keyboard-driven input and GUI | https://github.com/Ryuse/MatchEstate | Java, JavaFX, JUnit |
+| [WISLEY](https://github.com/Ryuse/WISLY) | Team project (NYP) to improve learning experiences | https://github.com/Ryuse/WISLY | ASP.NET |
+| [OutSource](https://github.com/JDesignEra/outsource) | School project web app connecting clients and freelancers | https://github.com/JDesignEra/outsource | Node.js, Bootstrap, jQuery, Popper.js, PayPal Sandbox |
+| [MedFriend](https://github.com/Ryuse/MedFriend) | School project web app for healthcare tracking | https://github.com/Ryuse/MedFriend | Flask |
 ---
 
 📫 **Let’s build together!**  
