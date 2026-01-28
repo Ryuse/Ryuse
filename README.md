@@ -69,11 +69,21 @@ Final-year Computer Science student at NUS.
         <li>1,000+ questions to practice from</li>
       </ul>
     </td>
-
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Ryuse/MatchEstate">MatchEstate</a></h3>
+      <video src="https://github.com/user-attachments/assets/75bf1602-e5bf-4f1c-bbe3-ea4f324e4e8f"></video>
+      <p>MatchEstate is a desktop application for real estate agents to efficiently manage and track buyers and sellers. It is optimized for fast keyboard-based input, allowing real estate professionals to handle transactions quickly.</p>
+      <p>
+        <kbd>Java</kbd> <kbd>JavaFX</kbd> <kbd>JUnit</kbd>
+      </p>
+      <ul>
+        <li>OOP-based</li>
+        <li>Command Line Interface (CLI) based with a Graphical User Interface (GUI)</li>
+      </ul>
+    </td>
 
   </tr>
 </table>
-
 <hr>
 
 <h2>🧩 Other Projects</h2>
@@ -81,7 +91,6 @@ Final-year Computer Science student at NUS.
 | Project | Description | Repo | Tech stack |
 |---|---|---|---|
 | [Idle Reincarnator Modding Guide](https://ryuse.github.io/idle-reincarnator-modding/) | Interactive guide to build mods for Idle Reincarnator | https://github.com/Ryuse/idle-reincarnator-modding | HTML, JS, CSS, GitHub Pages |
-| [MatchEstate](https://github.com/Ryuse/MatchEstate) | Desktop app for property listings and agent workflows; fast keyboard-driven input + GUI | https://github.com/Ryuse/MatchEstate | Java, JavaFX, JUnit |
 | [WISLEY](https://github.com/Ryuse/WISLY) | Team project (NYP) to improve learning experiences | https://github.com/Ryuse/WISLY | ASP.NET |
 | [OutSource](https://github.com/JDesignEra/outsource) | Client and freelancer matching web app | https://github.com/JDesignEra/outsource | Node.js, Bootstrap, jQuery, Popper.js, PayPal Sandbox |
 | [MedFriend](https://github.com/Ryuse/MedFriend) | Healthcare tracking web app | https://github.com/Ryuse/MedFriend | Flask |
