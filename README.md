@@ -1,16 +1,8 @@
-<h1 align="center">Hi, I'm <b>Ryuse</b> (or Lemuel if you prefer)</h1>
 <p align="center">
-  <sub>Computer Science @ NUS · 🇸🇬 Singapore · Indie dev (RyuseGames)</sub>
+  <sub>Computer Science @ NUS · 🇸🇬 Singapore</sub>
 </p>
 
 <p align="center">
-  <a href="https://store.steampowered.com/app/3779340/Idle_Reincarnator/"><img alt="Steam" src="https://img.shields.io/badge/Steam-Store-000000?style=for-the-badge&logo=steam&logoColor=white"></a>
-  <a href="https://play.google.com/store/apps/details?id=com.ryusegames.idle_reincarnator"><img alt="Google Play" src="https://img.shields.io/badge/Google%20Play-App-34A853?style=for-the-badge&logo=googleplay&logoColor=white"></a>
-  <a href="https://linkedin.com/in/lemuel-censon"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-</p>
-
-<p align="center">
-Indie dev behind <b>Idle Reincarnator</b>, a fantasy incremental RPG with cross-platform releases and community modding support.<br>
 Final-year Computer Science student at NUS.
 </p>
 
@@ -20,24 +12,7 @@ Final-year Computer Science student at NUS.
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h3>Idle Reincarnator</h3>
-      <video src="https://github.com/user-attachments/assets/6115e16f-2d67-46aa-b71b-f7d1b1f77521"></video>
-      <p>
-        Cross-platform incremental RPG on
-        <a href="https://store.steampowered.com/app/3779340/Idle_Reincarnator/">Steam</a>
-        and
-        <a href="https://play.google.com/store/apps/details?id=com.ryusegames.idle_reincarnator">Google Play</a>
-        under <b>RyuseGames</b>. <b>9,000+ units sold</b>.
-      </p>
-      <p>
-        <kbd>48 jobs</kbd> <kbd>17 trainings</kbd> <kbd>12 zones</kbd> <kbd>Modding Support</kbd>
-      </p>
-      <ul>
-        <li>30–40+ hours of playtime</li>
-        <li>Modding support: players are building custom content and tools (<a href="https://github.com/Ryuse/idle-reincarnator-modding">docs</a>)</li>
-      </ul>
-    </td>
+
     <td width="50%" valign="top">
           <h3>Hokmah Ahronah</h3>
       <video src="https://github.com/user-attachments/assets/dd50cc96-b4d7-4016-8304-b1ba9124414b"></video>
@@ -51,10 +26,6 @@ Final-year Computer Science student at NUS.
         <li>PPO reinforcement learning to play games and improve over time</li>
       </ul>
     </td>
-
-
-  </tr>
-
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/Ryuse/PeerPrep">PeerPrep</a></h3>
@@ -69,6 +40,10 @@ Final-year Computer Science student at NUS.
         <li>1,000+ questions to practice from</li>
       </ul>
     </td>
+
+  </tr>
+
+
     <td width="50%" valign="top">
       <h3><a href="https://github.com/Ryuse/MatchEstate">MatchEstate</a></h3>
       <video src="https://github.com/user-attachments/assets/75bf1602-e5bf-4f1c-bbe3-ea4f324e4e8f"></video>
@@ -90,7 +65,6 @@ Final-year Computer Science student at NUS.
 
 | Project | Description | Repo | Tech stack |
 |---|---|---|---|
-| [Idle Reincarnator Modding Guide](https://ryuse.github.io/idle-reincarnator-modding/) | Interactive guide to build mods for Idle Reincarnator | https://github.com/Ryuse/idle-reincarnator-modding | HTML, JS, CSS, GitHub Pages |
 | [WISLEY](https://github.com/Ryuse/WISLY) | Team project (NYP) to improve learning experiences | https://github.com/Ryuse/WISLY | ASP.NET |
 | [OutSource](https://github.com/JDesignEra/outsource) | Client and freelancer matching web app | https://github.com/JDesignEra/outsource | Node.js, Bootstrap, jQuery, Popper.js, PayPal Sandbox |
 | [MedFriend](https://github.com/Ryuse/MedFriend) | Healthcare tracking web app | https://github.com/Ryuse/MedFriend | Flask |
