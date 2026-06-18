@@ -66,6 +66,3 @@ x
 
 <hr>
 
-<h2>📫 Contact</h2>
-
-- LinkedIn: https://linkedin.com/in/lemuel-censon
