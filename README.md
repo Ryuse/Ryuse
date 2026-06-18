@@ -12,7 +12,6 @@ Final-year Computer Science student at NUS.
 
 <table>
   <tr>
-
     <td width="50%" valign="top">
           <h3>Hokmah Ahronah</h3>
       <video src="https://github.com/user-attachments/assets/dd50cc96-b4d7-4016-8304-b1ba9124414b"></video>
@@ -26,6 +25,19 @@ Final-year Computer Science student at NUS.
         <li>PPO reinforcement learning to play games and improve over time</li>
       </ul>
     </td>
+        <td width="50%" valign="top">
+      <h3><a href="https://github.com/Ryuse/MatchEstate">MatchEstate</a></h3>
+      <video src="https://github.com/user-attachments/assets/75bf1602-e5bf-4f1c-bbe3-ea4f324e4e8f"></video>
+      <p>MatchEstate is a desktop application for real estate agents to efficiently manage and track buyers and sellers. It is optimized for fast keyboard-based input, allowing real estate professionals to handle transactions quickly.</p>
+      <p>
+        <kbd>Java</kbd> <kbd>JavaFX</kbd> <kbd>JUnit</kbd>
+      </p>
+      <ul>
+        <li>OOP-based</li>
+        <li>Command Line Interface (CLI) based with a Graphical User Interface (GUI)</li>
+      </ul>
+    </td>
+
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/Ryuse/PeerPrep">PeerPrep</a></h3>
@@ -40,24 +52,7 @@ Final-year Computer Science student at NUS.
         <li>1,000+ questions to practice from</li>
       </ul>
     </td>
-
-  </tr>
-
-
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/Ryuse/MatchEstate">MatchEstate</a></h3>
-      <video src="https://github.com/user-attachments/assets/75bf1602-e5bf-4f1c-bbe3-ea4f324e4e8f"></video>
-      <p>MatchEstate is a desktop application for real estate agents to efficiently manage and track buyers and sellers. It is optimized for fast keyboard-based input, allowing real estate professionals to handle transactions quickly.</p>
-      <p>
-        <kbd>Java</kbd> <kbd>JavaFX</kbd> <kbd>JUnit</kbd>
-      </p>
-      <ul>
-        <li>OOP-based</li>
-        <li>Command Line Interface (CLI) based with a Graphical User Interface (GUI)</li>
-      </ul>
-    </td>
-
-  </tr>
+x
 </table>
 <hr>
 
